@@ -1,0 +1,9 @@
+D:\#Yazılım\DosyaIsmiDegistirme\DosyaIsmiDegistirme\bin\Debug\DosyaIsmiDegistirme.exe
+D:\#Yazılım\DosyaIsmiDegistirme\DosyaIsmiDegistirme\bin\Debug\DosyaIsmiDegistirme.pdb
+D:\#Yazılım\DosyaIsmiDegistirme\DosyaIsmiDegistirme\obj\Debug\DosyaIsmiDegistirme.csprojAssemblyReference.cache
+D:\#Yazılım\DosyaIsmiDegistirme\DosyaIsmiDegistirme\obj\Debug\DosyaIsmiDegistirme.Form1.resources
+D:\#Yazılım\DosyaIsmiDegistirme\DosyaIsmiDegistirme\obj\Debug\DosyaIsmiDegistirme.Properties.Resources.resources
+D:\#Yazılım\DosyaIsmiDegistirme\DosyaIsmiDegistirme\obj\Debug\DosyaIsmiDegistirme.csproj.GenerateResource.cache
+D:\#Yazılım\DosyaIsmiDegistirme\DosyaIsmiDegistirme\obj\Debug\DosyaIsmiDegistirme.csproj.CoreCompileInputs.cache
+D:\#Yazılım\DosyaIsmiDegistirme\DosyaIsmiDegistirme\obj\Debug\DosyaIsmiDegistirme.exe
+D:\#Yazılım\DosyaIsmiDegistirme\DosyaIsmiDegistirme\obj\Debug\DosyaIsmiDegistirme.pdb
